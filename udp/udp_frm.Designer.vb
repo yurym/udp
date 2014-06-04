@@ -59,7 +59,7 @@ Partial Class udp_frm
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 3
-        Me.Button2.Text = "Pause"
+        Me.Button2.Text = "Stop"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'BackgroundWorker1
