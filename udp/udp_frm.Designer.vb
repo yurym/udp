@@ -53,6 +53,7 @@ Partial Class udp_frm
         Me.TextBox1.Location = New System.Drawing.Point(12, 41)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.ReadOnly = True
         Me.TextBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.TextBox1.Size = New System.Drawing.Size(532, 281)
         Me.TextBox1.TabIndex = 5
